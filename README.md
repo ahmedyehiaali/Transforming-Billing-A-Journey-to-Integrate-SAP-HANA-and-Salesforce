@@ -2,7 +2,7 @@
 Repository documenting a transformative billing migration project, integrating SAP S/4HANA for finance and Salesforce for customer management. Focuses on challenges, strategic roadmap, and optimization insights that improved data quality, streamlined workflows, and enhanced customer satisfaction.
 # Transforming Billing: A Journey to Integrate SAP HANA and Salesforce
 
-![Billing Transformation Banner](https://your-image-link.com)
+![Billing Transformation](https://github.com/ahmedyehiaali/Transforming-Billing-A-Journey-to-Integrate-SAP-HANA-and-Salesforce/blob/main/SAP.PNG?raw=true)
 
 ## Introduction
 In today’s fast-paced business environment, the ability to adapt and innovate is crucial for maintaining customer satisfaction and operational efficiency. As a Senior Technical Program Manager, I was responsible for driving the billing technical roadmap and leading a pivotal migration from an old legacy system to a new billing system for a global multinational enterprise. We set out on a challenging journey to address issues faced in previous attempts.
@@ -25,6 +25,8 @@ We began by mapping the existing Lead-to-Cash (L2C) process, identifying key wor
 
 > **Anecdote**: During our mapping sessions, we discovered a particularly cumbersome manual data entry point that had frustrated team members for years. By redesigning this aspect of the process, we not only improved efficiency but also boosted team morale, as they felt heard and empowered.
 
+![Lead to cash optimization](https://github.com/ahmedyehiaali/Transforming-Billing-A-Journey-to-Integrate-SAP-HANA-and-Salesforce/blob/main/optimized_l2c_process.png?raw=true)
+
 ### 2. Cross-Functional Collaboration
 A cross-functional team from IT, finance, and sales was established to tackle real-time challenges, particularly data migration issues. Regular workshops and meetings ensured alignment among stakeholders and encouraged open communication.
 
@@ -32,6 +34,8 @@ A cross-functional team from IT, finance, and sales was established to tackle re
 
 ### 3. API Development for Integration
 To ensure seamless communication between the new billing system, SAP, and Salesforce, we developed APIs for real-time data synchronization. This integration framework standardized data interchange, allowing for consistent data flow across systems.
+
+![API's integeration process](https://github.com/ahmedyehiaali/Transforming-Billing-A-Journey-to-Integrate-SAP-HANA-and-Salesforce/blob/main/api_integration_process.png?raw=true)
 
 ### 4. Testing and Validation
 Thorough testing was critical for our success. We created a validation plan that included parallel billing tests to compare outputs from the legacy system with those from the new billing system, ensuring accuracy before going live.
